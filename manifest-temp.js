@@ -1,0 +1,1 @@
+export default ["upto-js", 'upto-vue', 'upto-react']
